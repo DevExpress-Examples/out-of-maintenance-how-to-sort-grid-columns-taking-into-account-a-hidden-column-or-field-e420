@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsApplication9/Form1.cs) (VB: [Form1.vb](./VB/WindowsApplication9/Form1.vb))
+* [Program.cs](./CS/WindowsApplication9/Program.cs) (VB: [Program.vb](./VB/WindowsApplication9/Program.vb))
+<!-- default file list end -->
 # How to sort grid columns taking into account a hidden column or field
 
 
